@@ -1,0 +1,26 @@
+export const products=[
+    {
+        id:1,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWj5whU0hQ7LubgvG8evmIm36RD2zeHUMQA&usqp=CAU',
+        name:'Swift',
+        price:'10Lakh'
+    },
+    {
+        id:2,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aRq7SV-JXGIqUOAXlbhTV_GRtLC5vpMSTg&usqp=CAU',
+        name:'Rolls-Royce',
+        price:'5Cr'
+    },
+    {
+        id:3,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL51EhUc1Dz5nK5uiwx4q1KxkLtSwDei8ZDw&usqp=CAU',
+        name:'Lamborghini',
+        price:'2Cr'
+    },
+    {
+        id:4,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjJecZEjpgeBdvDTLx_fOeSn_Q1uIIgpUyQ&usqp=CAU',
+        name:'Alto',
+        price:'4Lakh'
+    }
+]
